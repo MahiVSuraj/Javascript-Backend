@@ -1,0 +1,16 @@
+{
+  "name": "javascript-backend",
+  "version": "1.0.0",
+  "description": "A professional set up of Javascript Backend",
+  "keywords": [
+    "Javascript",
+    "Backend"
+  ],
+  "license": "ISC",
+  "author": "Mahi Suraj",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
